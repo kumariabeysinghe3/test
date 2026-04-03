@@ -1,0 +1,9 @@
+
+#write a program that reads the data from the text file provided (DOB.txt) 
+#and prints it out in two different sections: one for names and another for birthdates
+print("hi")
+
+#open file DOB.txt 
+file = open("DOB.txt", "r+")
+#assign variables name first 
+Names = ""

@@ -1,0 +1,3 @@
+#request users favourite request
+string_fav= input ("Please enter your favourite restaurant?")
+

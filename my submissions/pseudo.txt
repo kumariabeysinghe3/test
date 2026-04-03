@@ -1,0 +1,38 @@
+SCENARIO 1:
+request user to enter positive number 	
+if entered number is a zero value 
+	determine and output largest of entered values 
+if entered number is not a zero value 
+	request user to enter another positive number
+
+SCENARIO 2: 
+request user to input their name 
+store name in a variable called "first_name"
+print out variable first name and "Hello, World"
+
+SCENARIO 3: 
+input and read arbitrary number of intergers
+output the sum of the intergers divided by the number of integers 
+
+SCENARIO 4: 
+request grocery list from user 
+request user to select items left to buy 
+if item is selected 
+	alphabetise selected items 
+	print alphabetised list 
+if item is not selected 
+	leave item
+	
+SCENARIO 5: 
+read values for X 
+read values for Y 
+solve equation using values for X and Y 
+	S= X+Y 
+get value, S 
+solve equation using values for X, Y and S
+	A= S/2
+get value, A 
+solve equation using values X and Y 
+	P= X x Y 
+write values for S, A and P 
+	
